@@ -1,2 +1,2 @@
 # myweb
-Config files for my GitHub profile.
+# 就是自己做的一个网站，不必在意是什么
